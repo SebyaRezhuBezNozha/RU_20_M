@@ -352,8 +352,63 @@ const RU_2020_M_PACK_1 = 1;
 let ru_2020_m = [
 	{
 		pack : RU_2020_M_PACK_1,
-		group : 'Galibri & Mavik',
-		song : "Чак Норрис (2022)"
+		group : 'A.V.G',
+		song : "Она кайф (2023)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'A.V.G',
+		song : "Скандалит (2024)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'A.V.G',
+		song : "Я плачу (2023)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'MACAN',
+		song : "ASPHALT 8 (2023)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'MACAN',
+		song : "БРАТ (2024)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'MACAN',
+		song : "Пополам (ft BRANYA) (2021)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'MORGENSHTERN',
+		song : "Последняя Любовь (2024)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'MORGENSHTERN',
+		song : "КРАСНЫЙ ФЛАГ (2025)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'MORGENSHTERN',
+		song : "ПОВОД (2025)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'Oxxxymiron',
+		song : "Лига Опасного Интернета (2023)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'Oxxxymiron',
+		song : "Мы все умрем (2021)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'Oxxxymiron',
+		song : "МИР ГОРИТ (2024)"
 	}
 ];
 
