@@ -454,6 +454,36 @@ let ru_2020_m = [
 		pack : RU_2020_M_PACK_1,
 		group : 'тима ищет свет',
 		song : "потанцуй со мной (2025)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'XOLIDAYBOY',
+		song : "Пожары (2024)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'XOLIDAYBOY',
+		song : "Мания (2023)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'XOLIDAYBOY',
+		song : "КОРАБЛИ (2025)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'Мот',
+		song : "Август - это ты (2024)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'Мот',
+		song : "По душам (2021)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'Мот',
+		song : "Случайности не случайны (2021)"
 	}
 ];
 
