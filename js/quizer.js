@@ -499,6 +499,36 @@ let ru_2020_m = [
 		pack : RU_2020_M_PACK_1,
 		group : 'Егор Крид',
 		song : "Море (2025)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'Limba',
+		song : "Секрет (2022)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'Limba',
+		song : "X.O (ft Andro) (2020)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'Limba',
+		song : "Coco L’Eau (ft Егор Крид) (2020)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'SLAVA MARLOW',
+		song : "Снова я напиваюсь (2020)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'SLAVA MARLOW',
+		song : "По глазам (2020)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'SLAVA MARLOW',
+		song : "Ты горишь как огонь (2021)"
 	}
 ];
 
