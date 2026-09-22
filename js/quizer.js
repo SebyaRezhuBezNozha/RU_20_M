@@ -378,7 +378,8 @@ let ru_2020_m = [
 	{
 		pack : RU_2020_M_PACK_1,
 		group : 'MACAN',
-		song : "Пополам (ft BRANYA) (2021)"
+		song : "Пополам (ft BRANYA) (2021)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_M_PACK_1,
@@ -529,6 +530,11 @@ let ru_2020_m = [
 		pack : RU_2020_M_PACK_1,
 		group : 'SLAVA MARLOW',
 		song : "Ты горишь как огонь (2021)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'MACAN',
+		song : "Останься образом (2022)"
 	}
 ];
 
