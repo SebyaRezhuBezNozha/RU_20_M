@@ -535,6 +535,11 @@ let ru_2020_m = [
 		pack : RU_2020_M_PACK_1,
 		group : 'MACAN',
 		song : "Останься образом (2022)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'Мукка',
+		song : "Мёртвые цветы (2022)"
 	}
 ];
 
