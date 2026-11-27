@@ -540,6 +540,16 @@ let ru_2020_m = [
 		pack : RU_2020_M_PACK_1,
 		group : 'Мукка',
 		song : "Мёртвые цветы (2022)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'ELMAN',
+		song : "Самолёт бумажный (2022)"
+	},
+	{
+		pack : RU_2020_M_PACK_1,
+		group : 'ELMAN',
+		song : "Переболеть (2026)"
 	}
 ];
 
